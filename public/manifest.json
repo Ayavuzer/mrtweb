@@ -1,0 +1,16 @@
+{
+  "name": "mrtbt.com - AI Otomasyon ve DevOps Uzmanı",
+  "short_name": "mrtbt.com",
+  "description": "15 yıllık tecrübe ile yapay zeka, Kubernetes ve sistem mühendisliği çözümleri",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
